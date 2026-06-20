@@ -7,7 +7,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroVincenzi56&layout=pie&theme=darcula&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=PietroVincenzi56&theme=darcula&hide_border=true&show_icons=true" height="170"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroVincenzi56&theme=darcula&layout=compact&hide_border=true" height="170"/>
 </p>
 
