@@ -7,7 +7,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PietroVincenzi56&theme=darcula&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroVincenzi56&layout=donut&theme=darcula&hide_border=true&hide_title=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroVincenzi56&theme=darcula&layout=compact&hide_border=true" height="170"/>
 </p>
 
