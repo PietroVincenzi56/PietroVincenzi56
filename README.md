@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pietro Vincenzi</h1>
 <h3 align="center">Computer Engineering Graduate</h3>
 
-<p align="center">
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/PietroVincenzi56)
-</p>
 
 <hr/>
 
