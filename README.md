@@ -2,33 +2,13 @@
 <h3 align="center">Computer Engineering Graduate</h3>
 
 
-<hr/>
 
-## 💻 Tech Stack
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PietroVincenzi56&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=PietroVincenzi56&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PietroVincenzi56&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-102216?style=for-the-badge&logo=angular&logoColor=11d452" alt="Angular"/>
-  <img src="https://img.shields.io/badge/TypeScript-102216?style=for-the-badge&logo=typescript&logoColor=11d452" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-102216?style=for-the-badge&logo=java&logoColor=11d452" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-102216?style=for-the-badge&logo=python&logoColor=11d452" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-102216?style=for-the-badge&logo=c&logoColor=11d452" alt="C"/>
-  <img src="https://img.shields.io/badge/Kotlin-102216?style=for-the-badge&logo=kotlin&logoColor=11d452" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Spring-102216?style=for-the-badge&logo=spring&logoColor=11d452" alt="Spring"/>
-  <img src="https://img.shields.io/badge/MySQL-102216?style=for-the-badge&logo=mysql&logoColor=11d452" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-102216?style=for-the-badge&logo=git&logoColor=11d452" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/PyTorch-102216?style=for-the-badge&logo=pytorch&logoColor=11d452" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/NumPy-102216?style=for-the-badge&logo=numpy&logoColor=11d452" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-102216?style=for-the-badge&logo=pandas&logoColor=11d452" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/VS%20Code-102216?style=for-the-badge&logo=visualstudiocode&logoColor=11d452" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Android-102216?style=for-the-badge&logo=android&logoColor=11d452" alt="Android"/>
-</p>
-
-## 📊 GitHub Analytics
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PietroVincenzi56&layout=compact&theme=synthwave" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PietroVincenzi56&theme=synthwave" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PietroVincenzi56&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
 
 
